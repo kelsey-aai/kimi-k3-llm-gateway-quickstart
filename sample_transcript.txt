@@ -1,0 +1,6 @@
+Speaker A: Thanks for calling Northwind support, this is Dana. How can I help?
+Speaker B: Hi, our invoices for October show double charges on the Pro plan.
+Speaker A: I see two charges on October 3rd. I'll refund the duplicate today. It takes three to five business days.
+Speaker B: Great. Can you also move us to annual billing next month?
+Speaker A: Yes, I'll send a quote for annual billing by Friday.
+Speaker B: Perfect, thanks.

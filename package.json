@@ -1,0 +1,12 @@
+{
+  "name": "kimi-k3-llm-gateway-quickstart",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node quickstart.mjs"
+  },
+  "dependencies": {
+    "openai": "^4.0.0"
+  }
+}
